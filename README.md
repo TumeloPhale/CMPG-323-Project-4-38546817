@@ -12,7 +12,7 @@ Before using this project, ensure the following:
 - Access to Web Application: Verify you can access the web app at Telemetry Portal.
 - Test Data: Ensure you have the Excel test data file that will be used for input during automation.
 
-##How to Use
+## How to Use
 Clone this repository to your local machine:
 
 
