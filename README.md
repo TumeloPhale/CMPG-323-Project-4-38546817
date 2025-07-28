@@ -12,13 +12,7 @@ Before using this project, ensure the following:
 - Access to Web Application: Verify you can access the web app at Telemetry Portal.
 - Test Data: Ensure you have the Excel test data file that will be used for input during automation.
 
-## How to Use
-Clone this repository to your local machine:
 
-
-git clone https://github.com/your-repo/project-uat-automation.git
-
-Open UiPath Studio and navigate to the project folder.
 
 ## Use the Excel test data file as the input source for the RPA workflow:
 
